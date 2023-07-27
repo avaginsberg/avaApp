@@ -70,7 +70,7 @@ struct ContentView: View {
                         .font(.title)
                         .padding(.top, -35.0)
                     Spacer()
-                    Text("my turtle terry!")
+                    Text("my turtle terry!!")
                         .font(.title)
                         .padding(.top, -10.0)
                     Text("family pic!")
